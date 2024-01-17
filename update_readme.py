@@ -2,7 +2,7 @@ import os
 with open("README.md", "w", encoding="utf-8") as f:
     f.write("""# Dictionaries
 
-Parallel dictionaries for use in machine translations.
+Parallel dictionaries for use in machine translation.
 
 """)
     f.write("| Language | Link |\n")
