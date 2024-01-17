@@ -4,7 +4,6 @@ Parallel dictionaries for use in machine translations.
 
 | Language | Link |
 | -------- | ---- |
-| LICENSE | [Download](https://github.com/LibreTranslate/Dictionaries/raw/main/apertium/LICENSE) |
 | en_it | [Download](https://github.com/LibreTranslate/Dictionaries/raw/main/apertium/en_it.zip) |
 | en_pt | [Download](https://github.com/LibreTranslate/Dictionaries/raw/main/apertium/en_pt.zip) |
 | en_ca | [Download](https://github.com/LibreTranslate/Dictionaries/raw/main/apertium/en_ca.zip) |

@@ -8,6 +8,8 @@ Parallel dictionaries for use in machine translations.
     f.write("| Language | Link |\n")
     f.write("| -------- | ---- |\n")
     for d in os.listdir("apertium"):
+        if d == "LICENSE":
+            continue
         lang, _ = os.path.splitext(d)
         print(lang)
         f.write(f"| {lang} | [Download](https://github.com/LibreTranslate/Dictionaries/raw/main/apertium/{d}) |\n")
